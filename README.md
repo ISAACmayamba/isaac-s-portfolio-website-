@@ -134,6 +134,18 @@ Replace the placeholder icon in the hero section:
 
 ## 🌐 Deployment
 
+### Vercel (Recommended)
+
+✅ **Deployed on Vercel**: Your portfolio is live and automatically updates with each GitHub push!
+
+**Deployment Steps:**
+1. Import your GitHub repository to Vercel
+2. Configure as static site (no build needed)
+3. Deploy with one click
+4. Future updates deploy automatically
+
+**Live Demo**: [View your portfolio on Vercel](https://your-portfolio.vercel.app) (update with your actual URL)
+
 ### GitHub Pages
 
 1. Push your code to a GitHub repository
@@ -145,12 +157,6 @@ Replace the placeholder icon in the hero section:
 
 1. Drag and drop the `FRONT END` folder to Netlify
 2. Your site will be deployed instantly
-
-### Vercel
-
-1. Import your GitHub repository
-2. Configure build settings (if needed)
-3. Deploy with one click
 
 ## 📝 To-Do / Future Enhancements
 
