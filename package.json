@@ -1,0 +1,30 @@
+{
+  "name": "isaac-mayamba-portfolio",
+  "version": "1.0.0",
+  "description": "Isaac Mayamba's personal portfolio website - Full Stack Developer from Zambia",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "portfolio",
+    "web-development",
+    "full-stack",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Isaac Mayamba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ISAACmayamba/isaac-s-portfolio-website-"
+  },
+  "homepage": "https://isaac-mayamba-portfolio.vercel.app",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
